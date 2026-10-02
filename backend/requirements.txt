@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+paddleocr==2.7.3
+paddlepaddle==2.6.2
+numpy<2.0
+opencv-python-headless
+requests
+ultralytics==8.3.0
